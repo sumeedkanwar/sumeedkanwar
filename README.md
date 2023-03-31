@@ -1,4 +1,7 @@
 ### Salam! I'm Sumeed Jawad Kanwar
+
+BMI'22
+
 FAST'26
 
 BS (Software Engineering)
