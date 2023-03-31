@@ -1,4 +1,6 @@
-### Hi there 👋
+### Salam! I'm Sumeed Jawad Kanwar
+A student at FAST University Islamabad
+currently enrolled in BS (Software Engineering)
 
 <!--
 **sumeedkanwar/sumeedkanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
