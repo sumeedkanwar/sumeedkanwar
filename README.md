@@ -4,8 +4,6 @@ BMI'22
 
 FAST'26
 
-BS (Software Engineering)
-
 <!--
 **sumeedkanwar/sumeedkanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
