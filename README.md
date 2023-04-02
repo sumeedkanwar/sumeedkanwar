@@ -1,8 +1,6 @@
 <h1 align="center">Salam! I'm Sumeed Jawad Kanwar</h1>
 <h3 align="center">Fast'26</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeedkanwar&label=Profile%20views&color=0e75b6&style=flat" alt="sumeedkanwar" /> </p>
-
 - 🔭 I’m currently working on **Shaper**
 
 - 🌱 I’m currently learning **JavaScript**
