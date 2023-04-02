@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeedkanwar&show_icons=true&theme=dark&locale=en&layout=compact" alt="sumeedkanwar" width="40%" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeedkanwar&theme=dark" alt="sumeedkanwar" width="55%" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeedkanwar&theme=dark" alt="sumeedkanwar" width="40%" /></p>
 
 <!--
 **sumeedkanwar/sumeedkanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
