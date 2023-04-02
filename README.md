@@ -3,7 +3,7 @@
 <h1 align="center">Salam! I'm Sumeed Jawad Kanwar</h1>
 <h3 align="center">Fast'26</h3>
 
-- 🔭 I’m currently working on **Shaper (A Productivity app)**
+- 🔭 I’m currently working on **Shaper (Productivity App)**
 
 - 🌱 I’m currently learning **JavaScript**
 
