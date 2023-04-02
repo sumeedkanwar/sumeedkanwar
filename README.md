@@ -1,3 +1,5 @@
+![Blue Simple LinkedIn Banner](https://user-images.githubusercontent.com/126162633/229325521-7e133497-7783-4947-b309-ac758a831300.png)
+
 <h1 align="center">Salam! I'm Sumeed Jawad Kanwar</h1>
 <h3 align="center">Fast'26</h3>
 
