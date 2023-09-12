@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeedkanwar&label=Profile%20views&color=0e75b6&style=flat" alt="sumeedkanwar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jsumeed" target="blank"><img src="https://img.shields.io/twitter/follow/jsumeed?logo=twitter&style=for-the-badge" alt="jsumeed" /></a> </p>
-
 - 🔭 I’m currently working on **Shapar**
 
 - 🌱 I’m currently learning **Flutter**
   
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeedj) 
+<p align="left"> 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumeedj) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
