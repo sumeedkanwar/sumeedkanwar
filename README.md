@@ -1,11 +1,9 @@
 <h1 align="center">Salam, I'm Sumeed Jawad Kanwar</h1>
 <h3 align="center">Web Developer | Software Engineer | Fast '26</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeedkanwar&label=Profile%20views&color=0e75b6&style=flat" alt="sumeedkanwar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeedkanwar&label=Profile%20views&color=0e75b6&style=flat" alt="sumeedkanwar" /> 
 - 🔭 I’m currently working on **Shapar**
 - 🌱 I’m currently learning **React**
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -30,3 +28,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
 </div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeedkanwar&theme=dark&hide_border=false"/>
+</p>
