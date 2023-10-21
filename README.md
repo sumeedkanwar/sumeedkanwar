@@ -21,6 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 <p align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=sumeedkanwar&theme=dark&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeedkanwar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeedkanwar&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeedkanwar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
