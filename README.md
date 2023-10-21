@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋! I'm Sumeed Jawad Kanwar </h1>
-<h2>Web Developer | Software Engineer</h2>
+<h2 align="center">Web Developer | Software Engineer</h2>
 
 ###
 
