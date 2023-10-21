@@ -1,16 +1,12 @@
-<h1 align="center">Sumeed Jawad Kanwar</h1>
+<h1 align="center">Salam, I'm Sumeed Jawad Kanwar</h1>
+<h3 align="center">Web Developer | Software Engineer | Fast '26</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumeedkanwar&label=Profile%20views&color=0e75b6&style=flat" alt="sumeedkanwar" /> </p>
+- 🔭 I’m currently working on **Shapar**
+- 🌱 I’m currently learning **React**
 
-###
-
-<h2 align="center">Web Developer | Software Engineer</h2>
-
-###
-
-<img align="right" height="150" src="https://img.freepik.com/premium-vector/wolf-hill-stylized-forest-proud-werewolf-predatory-dangerous-generative-ai-minimalism-beautiful-poster-predator-design-howl-mysticism-leader-creative-concept-vector-illustration_748571-998.jpg?w=826"  />
-
-###
-
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -33,16 +29,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sumeedj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="sumeedkanwar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeedkanwar&theme=dark&hide_border=false"/>
