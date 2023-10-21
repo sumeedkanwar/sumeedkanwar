@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Sumeed Jawad Kanwar and I'm a Software Engineer, from Pakistan</h2>
+<h1 align="center">Hi 👋! I'm Sumeed Jawad Kanwar </h1>
+<h2>Web Developer | Software Engineer</h2>
 
 ###
 
@@ -40,11 +41,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sumeedkanwar/sumeedkanwar/output/snake.svg" alt="Snake animation" />
 
 ###
