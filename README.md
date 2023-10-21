@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=sumeedkanwar&label=Profile%20views&color=0e75b6&style=flat" alt="sumeedkanwar" />
   <div>
     - 🔭 I’m currently working on **Shapar**
+    <br>
     - 🌱 I’m currently learning **React**
   </div>
   
