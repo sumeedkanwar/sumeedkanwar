@@ -4,9 +4,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sumeedkanwar&label=Profile%20views&color=0e75b6&style=flat" alt="sumeedkanwar" />
   <div>
-    - 🔭 I’m currently working at <b>SHAPAR</b>
-    <br>
-    - 🌱 I’m currently learning <b>React</b>
+    - 💼 I’m currently working at <b>SHAPAR</b>
   </div>
   
 <h3 align="left">Languages and Tools:</h3>
