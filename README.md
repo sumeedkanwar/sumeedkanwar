@@ -1,5 +1,5 @@
 <h1 align="center">Salam, I'm Sumeed Jawad Kanwar</h1>
-<h3 align="center">Software Engineer | Fast '26</h3>
+<h3 align="center">Software Engineer | AI/ML | MERN | FAST'26</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sumeedkanwar&label=Profile%20views&color=0e75b6&style=flat" alt="sumeedkanwar" />
